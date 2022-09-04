@@ -36,7 +36,4 @@ https://www.youtube.com/watch?v=COPS4VMfaUc&t
 
 Part1-SDET Essentials | Jenkins Build & Delivery Pipeline | CI & CD | How to create Jenkins Pipeline
 https://www.youtube.com/watch?v=1ji_9scA2C4&t
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of 776aa75 (Revert "Revert " file edited"")
+...
