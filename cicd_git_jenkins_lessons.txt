@@ -1,0 +1,38 @@
+What Is Version Control? | Git Version Control | Version Control In Software Engineering|Simplilearn
+https://www.youtube.com/watch?v=Yc8sCSeMhi4
+
+Jenkins Practical Beginners Course for DevOps | CI/CD Pipeline With Jenkins | Learn DevOps Tools Ep1
+https://www.youtube.com/watch?v=wHtIWvb5nzo&t
+
+Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |
+https://www.youtube.com/watch?v=woMAXn4e8NA
+
+School Of Basics | What is CI CD | What is CI CD Pipeline | Interview questions
+https://www.youtube.com/watch?v=k2aNsQKwyOo&t
+
+What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn
+https://www.youtube.com/watch?v=LFDrDnKPOTg&t
+
+CI/CD | Continuous Integration | Delivery | Deployment
+https://www.youtube.com/watch?v=HjXTSbXG1k8&t
+
+DevOps: CI/CD Introduction (Continuous Integration, Continuous Delivery, Continuous Deployment)
+https://www.youtube.com/watch?v=AlrImm1T8Wg&t
+
+Continuous Integration with Docker
+https://www.youtube.com/watch?v=FX-jwVykCGU&t
+
+CI/CD Pipeline Using Jenkins | Continuous Integration & Continuous Deployment | DevOps | Simplilearn
+https://www.youtube.com/watch?v=mk2FBuTMwDc&t
+
+Git vs. GitHub: What's the difference?
+https://www.youtube.com/watch?v=wpISo9TNjfU&t
+
+Git & GitHub Crash Course For Beginners
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+Let's create a GitHub Action (super easy tutorial)
+https://www.youtube.com/watch?v=COPS4VMfaUc&t
+
+Part1-SDET Essentials | Jenkins Build & Delivery Pipeline | CI & CD | How to create Jenkins Pipeline
+https://www.youtube.com/watch?v=1ji_9scA2C4&t
