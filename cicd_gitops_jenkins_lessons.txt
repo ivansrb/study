@@ -39,3 +39,9 @@ https://www.youtube.com/watch?v=1ji_9scA2C4&t
 
 Part2-SDET Essentials|CI & CD|How to Build Pipelines with Groovy Script|Scripted & Declarative
 https://www.youtube.com/watch?v=Ozna0MS5D1E
+
+What is GitOps, How GitOps works and Why it's so useful
+https://www.youtube.com/watch?v=f5EpcWp0THw
+
+ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes
+https://www.youtube.com/watch?v=MeU5_k9ssrs
