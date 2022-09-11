@@ -20,4 +20,8 @@ https://medium.com/schibsted-engineering/ultimate-terraform-project-structure-9f
 DevSecOps — Implementing Secure CI/CD Pipelines
 https://medium.com/@nanditasahu031/devsecops-implementing-secure-ci-cd-pipelines-9653726b4916
 
+DevOps Monitoring Tools
+https://medium.com/@muhammad.saad_16819/devops-monitoring-tools-a7932268a138
 
+Creating CI/CD Pipeline using GitHub Actions
+https://medium.com/@aaryangupta2201/creating-ci-cd-pipeline-using-github-actions-b5757f75c547
