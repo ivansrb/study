@@ -1,0 +1,23 @@
+Helm Charts Making Your AWS EKS Cluster Better
+https://aws.plainenglish.io/5-helm-charts-making-your-aws-eks-cluster-better-40db0ed4a330
+
+Creating an EKS Cluster with Terraform
+Deploy EKS Cluster using Terraform
+https://medium.com/@Devin007/creating-an-eks-cluster-with-terraform-f33f37672ba0
+
+Structuring terraform projects using terragrunt — Part I
+https://itnext.io/structuring-terraform-project-using-terragrunt-part-i-4c6e936c4858
+
+[DevOps] 01 - Example project with Terraform
+https://medium.com/@cyber-security/devops-01-example-project-with-terraform-ade540824db1
+
+Creating A CI/CD Pipeline to Push Terraform Code
+https://medium.com/aws-tip/creating-a-ci-cd-pipeline-to-push-terraform-code-b60831a7508d
+
+Ultimate Terraform project structure
+https://medium.com/schibsted-engineering/ultimate-terraform-project-structure-9fc7e79f6bc6
+
+DevSecOps — Implementing Secure CI/CD Pipelines
+https://medium.com/@nanditasahu031/devsecops-implementing-secure-ci-cd-pipelines-9653726b4916
+
+
